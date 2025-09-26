@@ -79,8 +79,8 @@ autocars_frontend/ # Frontend project
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/autocars-marketplace.git
-cd autocars-api
+git clone https://github.com/openescuela/demo-django-rest-freamwork.git
+cd demo-django-rest-freamwork
 
 2. Create a virtual environment:
 
@@ -139,6 +139,7 @@ Open a pull request
 ## License
 
 MIT License
+
 
 
 
